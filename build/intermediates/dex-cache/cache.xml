@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\project\face-recognition-master2(phone)\facerecognition\build\intermediates\exploded-aar\face-recognition-master2(phone)\openCVLibrary2410\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8bcd2948e79087b477ac7a770cf6362fbc290d53">
+        <dex dex="D:\Android\project\face-recognition-master2(phone)\facerecognition\build\intermediates\pre-dexed\debug\classes-d024390de56e5925a664a86c52e9eefa2a89f70c.jar" />
+    </item>
+    <item
+        jar="D:\Android\project\face-recognition-master2(phone)\facerecognition\libs\javacpp.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="08f8b1e3fdcc93a1e9076d6279864d6a46982a85">
+        <dex dex="D:\Android\project\face-recognition-master2(phone)\facerecognition\build\intermediates\pre-dexed\debug\javacpp-ed7068eb88e550158f2688a1d4f3c88615a5d880.jar" />
+    </item>
+    <item
+        jar="D:\Android\project\face-recognition-master2(phone)\facerecognition\libs\javacv.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1824ed7a180ee32aa57f5632a489c10aad8f1804">
+        <dex dex="D:\Android\project\face-recognition-master2(phone)\facerecognition\build\intermediates\pre-dexed\debug\javacv-bf3b8980abf348345d56f63c5455f1dd7d1a75be.jar" />
+    </item>
+
+</items>
