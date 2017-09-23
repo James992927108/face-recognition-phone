@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="default"><source path="E:\GitHub\face-recognition-phone\openCVLibrary2410\build\intermediates\bundles\default\assets"/></dataSet><dataSet config="main"><source path="E:\GitHub\face-recognition-phone\facerecognition\src\main\assets"/><source path="E:\GitHub\face-recognition-phone\facerecognition\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\GitHub\face-recognition-phone\facerecognition\src\debug\assets"/></dataSet></merger>

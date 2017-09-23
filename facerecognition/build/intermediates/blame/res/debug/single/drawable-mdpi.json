@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\GitHub\\face-recognition-phone\\facerecognition\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_green.png",
+        "source": "E:\\GitHub\\face-recognition-phone\\facerecognition\\src\\main\\res\\drawable-mdpi\\ic_green.png"
+    },
+    {
+        "merged": "E:\\GitHub\\face-recognition-phone\\facerecognition\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_red.png",
+        "source": "E:\\GitHub\\face-recognition-phone\\facerecognition\\src\\main\\res\\drawable-mdpi\\ic_red.png"
+    },
+    {
+        "merged": "E:\\GitHub\\face-recognition-phone\\facerecognition\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_yellow.png",
+        "source": "E:\\GitHub\\face-recognition-phone\\facerecognition\\src\\main\\res\\drawable-mdpi\\ic_yellow.png"
+    }
+]

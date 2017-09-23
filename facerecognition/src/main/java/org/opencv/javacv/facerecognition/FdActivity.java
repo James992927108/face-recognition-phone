@@ -24,13 +24,9 @@ import org.opencv.core.MatOfRect;
 import org.opencv.core.Rect;
 import org.opencv.core.Scalar;
 import org.opencv.core.Size;
-import org.opencv.javacv.facerecognition.R;
 
 import org.opencv.android.CameraBridgeViewBase.CvCameraViewListener2;
 import org.opencv.objdetect.CascadeClassifier;
-
-import com.google.android.glass.app.Card;
-import com.googlecode.javacv.cpp.opencv_imgproc;
 
 import android.app.Activity;
 import android.content.Context;
@@ -49,14 +45,14 @@ import android.os.Message;
 import android.speech.RecognizerIntent;
 import android.util.Log;
 import android.view.GestureDetector;
-import android.view.KeyEvent;
+
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
-import android.widget.EditText;
+
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;

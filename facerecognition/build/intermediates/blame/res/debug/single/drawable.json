@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\GitHub\\face-recognition-phone\\facerecognition\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_stat_camera.png",
+        "source": "E:\\GitHub\\face-recognition-phone\\facerecognition\\src\\main\\res\\drawable\\ic_stat_camera.png"
+    },
+    {
+        "merged": "E:\\GitHub\\face-recognition-phone\\facerecognition\\build\\intermediates\\res\\merged\\debug\\drawable\\lightbulb.png",
+        "source": "E:\\GitHub\\face-recognition-phone\\facerecognition\\src\\main\\res\\drawable\\lightbulb.png"
+    },
+    {
+        "merged": "E:\\GitHub\\face-recognition-phone\\facerecognition\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "E:\\GitHub\\face-recognition-phone\\facerecognition\\src\\main\\res\\drawable\\icon.png"
+    }
+]

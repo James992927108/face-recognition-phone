@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.gradle",
+    "\\build",
+    "\\facerecognition",
+    "\\facerecognition\\src",
+    "\\facerecognition\\src\\main",
+    "\\facerecognition\\src\\main\\java",
+    "\\facerecognition\\src\\main\\java\\org",
+    "\\facerecognition\\src\\main\\java\\org\\opencv",
+    "\\facerecognition\\src\\main\\java\\org\\opencv\\javacv",
+    "\\facerecognition\\src\\main\\java\\org\\opencv\\javacv\\facerecognition"
+  ],
+  "SelectedNode": "\\facerecognition\\src\\main\\java\\org\\opencv\\javacv\\facerecognition\\Tutorial3View.java",
+  "PreviewInSolutionExplorer": false
+}
